@@ -19,7 +19,7 @@ The Visualization does cover the statistics about how closing stock prices suffe
 In my redesign version, I will be taking into account the closing stock price statistics about the company Equifax. Because according to the reports, Equifax is the worst data breach ever far worse than Yahoo, Target, Home Depot or anything else. A failure in the credit reporting agency’s security exposed the personal information of 143 million U.S. consumers to “criminals” in the Equifax's breach. Also, I have added additional data about Revenue and EPS, how these factors changed over time and effect of security breach on them. 
 I will be using bar charts and line graphs to clearly help the audience visualize the change in the values. Also, I will be presenting a rebuttle for this visualization which displays decreasing records lost over the years as we move ahead.
 
-
+---
 ### Redesign Version:
 
 ### How Financial markets punished Equifax!
