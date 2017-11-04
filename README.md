@@ -18,20 +18,21 @@ I will be using bar charts and line graphs to clearly help the audience visualiz
 
 ### Redesign Version:
 
-#### How Financial markets punished Equifax!
+### How Financial markets punished Equifax!
 ![Alt text](https://github.com/Tanushreechaudhary/Lab_Session7/blob/master/screenshots/Lab7_Image1.png)
 
 The Visualization suggests that the average close prices are decreasing for the companies after the data breach, which in turn shows that financial markets do punish security breaches by lowering the stock prices. For instance, I have shown company Equifax here, the company was  continuously on an increase in the closing prices for past few months but when the security breach happened in 2017 in the month of September, the stock price fell from 142.39 to 111.31. And It is still on a fall, because the brand value of the company also suffers. Investors would stop investing, customers would stop using its services.
 
-#### How Customers punished Equifax!
+### How Customers punished Equifax!
 ![Alt text](https://github.com/Tanushreechaudhary/Lab_Session7/blob/master/screenshots/Lab7_Image2png.png)
 
 Here the Revenue and Earings per share are shown for Equifax.  Revenue growth illustrates increase/decrease in the business over time. For the past few years, the company was doing fine with the Revenue. But in the year of the security breach, the revenue and EPS experienced a huge fall. In 2016, Revenue was 3144 million and in the year of breach 2017, it went to 1689 million. Also, for Earnings per share, in 2016 it was 4.04 and it came down to 2.6 in 2017. It's all about trust, whenever there is an incident like this, people loose trust in the services provided by the company. And it takes a lot of time and money to build the same trust again. Still Equifax is trying to recover the loss and the controversies it is in.
 
-#### Dashboard:
+### Dashboard:
 ![Alt text](https://github.com/Tanushreechaudhary/Lab_Session7/blob/master/screenshots/Lab7_Dashboard.png) 
 
-Link to Tableau: https://public.tableau.com/profile/tanushree3514#!/vizhome/HowfinancialmarketspunishedEquifax/RedesignLab7?publish=yes
+#### Link to Tableau: 
+https://public.tableau.com/profile/tanushree3514#!/vizhome/HowfinancialmarketspunishedEquifax/RedesignLab7?publish=yes
 
 
 
