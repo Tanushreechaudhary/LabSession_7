@@ -44,6 +44,7 @@ https://public.tableau.com/profile/tanushree3514#!/vizhome/Financialmarketsdopun
 
 ### Summary:
 1. Supporting the claim "Financial markets do punish security breaches"
-2. Redesigned the lab session 3 version, identified the audience, wrote a critque and the roadmap.
-3. Added a rebuttal which shows there might be a possibility that Equifax might be an exception.
+2. Identified the audience, wrote a critque and the roadmap for future enhancements.
+3. Redesigned the lab session 3 version which showed how financial markets and customers also punished the companies for security breach.
+3. Added a rebuttal which shows there might be a possibility that Equifax is an exception.
 
