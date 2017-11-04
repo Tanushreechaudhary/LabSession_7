@@ -30,7 +30,7 @@ The Visualization suggests that the average close prices are decreasing for the 
 ### How Customers punished Equifax!
 ![lab7_image2png](https://user-images.githubusercontent.com/32077698/32408115-f03dd944-c14f-11e7-893c-3eb12bb82ff6.png)
 
-Here the Revenue and Earings per share are shown for Equifax.  Revenue growth illustrates increase/decrease in the business over time. For the past few years, the company was doing fine with the Revenue. But in the year of the security breach, the revenue and EPS experienced a huge fall. In 2016, Revenue was 3144 million and in the year of breach 2017, it went to 1689 million. Also, for Earnings per share, in 2016 it was 4.04 and it came down to 2.6 in 2017. It's all about trust, whenever there is an incident like this, people loose trust in the services provided by the company. And it takes a lot of time and money to build the same trust again. Still Equifax is trying to recover the loss and the controversies it is in.
+Here the Revenue and Earnings per share are shown for Equifax.  Revenue growth illustrates increase/decrease in the business over time. For the past few years, the company was doing fine with the Revenue. But in the year of the security breach, the revenue and EPS experienced a huge fall. In 2016, Revenue was 3144 million and in the year of breach 2017, it went to 1689 million. Also, for Earnings per share, in 2016 it was 4.04 and it came down to 2.6 in 2017. It's all about trust, whenever there is an incident like this, people loose trust in the services provided by the company. And it takes a lot of time and money to build the same trust again. Still Equifax is trying to recover the loss and the controversies it is in.
 
 
 ### Rebuttal:
