@@ -32,7 +32,7 @@ Here the Revenue and Earings per share are shown for Equifax.  Revenue growth il
 ![Alt text](https://github.com/Tanushreechaudhary/Lab_Session7/blob/master/screenshots/Lab7_Dashboard.png) 
 
 #### Link to Tableau: 
-https://public.tableau.com/profile/tanushree3514#!/vizhome/HowfinancialmarketspunishedEquifax/RedesignLab7?publish=yes
+https://public.tableau.com/profile/tanushree3514#!/vizhome/HowfinancialmarketspunishedEquifax/RedesignLab7
 
 
 
